@@ -1,2 +1,5 @@
 # hello-world
-Hello, world...
+
+Hi, 
+
+Jonathan here. Coding is fun! 
